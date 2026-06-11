@@ -10,7 +10,7 @@ An end-to-end financial intelligence engine built in Python designed to eliminat
 ## 📊 Visualized Analytics Output
 The engine automatically structures scale anomalies (converting massive raw currency integers to absolute Crores) and outputs high-contrast visuals for immediate corporate review.
 
-![Free Cash Flow Project Outlook](RELIANCE_linkedin_insight.png)
+![Free Cash Flow Project Outlook](INFY_linkedin_insight.png)
 
 ## 🛠️ How to Adapt This for Other Equities
 The core framework is built dynamically. To run this script for any other large-cap NSE tracker:
